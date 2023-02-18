@@ -1,0 +1,3 @@
+[submodule "generate_question/t5-end2end-question-generation"]
+	path = generate_question/t5-end2end-question-generation
+	url = https://huggingface.co/ThomasSimonini/t5-end2end-question-generation
